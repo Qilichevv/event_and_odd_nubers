@@ -1,5 +1,5 @@
 #A four-digit integer is given. Find the sum of odd digits in it.
-a=4325
+a=4377
 #Create a variable "var_int" and assign it a four-digit integer value.
 a1=a%10
 a2=a//10%10
