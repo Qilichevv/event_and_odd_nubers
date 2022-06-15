@@ -1,4 +1,4 @@
 #Create a variable "number" and assign it a integer value.
-x=23
+x=42
 
-print(1-(x%2))
+print(x%2)
