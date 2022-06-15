@@ -1,5 +1,5 @@
 #A four-digit integer is given. Find the sum of even digits in it.
-var_int=4934
+var_int=4944
 #Create a variable "var_int" and assign it a four-digit integer value.
 var_int1=var_int%10
 var_int2=var_int//10%10
