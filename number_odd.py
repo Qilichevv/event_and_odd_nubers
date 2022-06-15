@@ -1,5 +1,5 @@
 #A four-digit integer is given. Find the number of odd digits in it.
-x=2356
+x=2355
 #Create a variable "var_int" and assign it a four-digit integer value.
 a =x%10
 b =x//10%10
