@@ -1,5 +1,5 @@
 #A four-digit integer is given. Find the number of even digits in it.
-x=4678
+x=2438
 #Create a variable "var_int" and assign it a four-digit integer value.
 a = x%10
 b = x//10%10
