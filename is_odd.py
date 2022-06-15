@@ -1,4 +1,4 @@
 #Crete a variable "number" and assign it a integer value.a
-x=44
+number=44
 #Print 1 if the number is odd, otherwise print 0.
-print((x+1)%2)
+print((number+1)%2)
